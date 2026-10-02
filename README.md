@@ -39,11 +39,3 @@ aulas-CG/
 
 Engenharia de Computação - CEFET-MG
 ```
-
-Depois de editar o `README.md`, para subir:
-
-```powershell
-git add README.md
-git commit -m "Atualiza README do projeto"
-git push
-```
