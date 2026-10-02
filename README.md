@@ -35,7 +35,6 @@ aulas-CG/
 
 ## Autor
 
-**Eduardo Grillo**
-
-Engenharia de Computação - CEFET-MG
-```
+| Nome | Curso | Instituição |
+|---|---|---|
+| **Eduardo Grillo** | Engenharia de Computação | CEFET-MG |
