@@ -173,7 +173,7 @@ def main():
             [1.0, 0.5, 0.0]  # Laranja (Mais longe)
         ]
 
-        i = 0 #configuração da visão
+        i = 2 #configuração da visão
 
         glBindVertexArray(VAO)
 
