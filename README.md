@@ -10,7 +10,6 @@ Repositório destinado às atividades, desafios e projetos desenvolvidos na disc
 - Computação gráfica 2D e 3D
 - OpenCV
 - NumPy
-- OpenGL / GLFW
 - Texturas e recursos utilizados nos projetos
 - Resultados das atividades
 
@@ -22,7 +21,6 @@ aulas-CG/
 ├── desafios/
 ├── resultados/
 ├── texturas/
-└── arquivos das atividades
 ```
 
 ## Tecnologias
